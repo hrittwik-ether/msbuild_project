@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "spt8N6lmB8QzhUeRjA2VqD/RTOAhDphft1Xz+pmKZAewiSGRhl7/y6TbyD9H4RQz1I63YxhPfE3jBIP+7ln3PQ==",
+  "dgSpecHash": "RZdujcxAJA3mkHCaHfeEzegd3vKpzbcHhFVOjfvFMt1pjr9Kuvzg3BPa9+tfCzGMaN3rUPqT0/flg9p0wa5J0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\centusadmin\\source\\repos\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "/share/msbuild_project/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
